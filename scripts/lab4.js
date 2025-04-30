@@ -40,3 +40,4 @@ function discountPrices(prices, discount) {
 }
 
 module.exports = { sumValues, discountPrices };
+
